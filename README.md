@@ -1,16 +1,19 @@
 # Hirone Ishida
 
-PhD student at Saitama University.  
-Working on tensor network methods and variable transformations for efficient representations of high-dimensional functions.
+PhD student (D2) at Saitama University, working in computational condensed matter physics.
+
+I develop and implement tensor network–based methods for compression, computation, and optimization of high-dimensional functions.  
+These methods are applied to problems such as multi-orbital electron-lattice systems and spintronics.  
+My current interest is structure optimization of multi-atomic systems.
 
 ---
 
-## Research Interests
+## Research
 
-- Tensor Networks (TT, QTT)
-- Variable Transformation / Discrete Flow
-- Generative Models
-- Many-body physics / Electron-phonon systems
+- Tensor network methods (TT, QTT)
+- High-dimensional function compression and computation
+- Variable transformation / Discrete Flow
+- Applications to many-body systems and materials physics
 
 ---
 
@@ -27,6 +30,6 @@ Working on tensor network methods and variable transformations for efficient rep
 
 ## Links
 
-- GitHub: https://github.com/HironeIshida
+- Homepage: https://sites.google.com/view/hironeishida/%E3%83%9B%E3%83%BC%E3%83%A0
 - Zenn: https://zenn.dev/hirone_ishida
-- X: https://X.com/@hironeishida
+- X: https://x.com/hironeishida
