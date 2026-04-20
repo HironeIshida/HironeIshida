@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hirone Ishida
 
-<!--
-**HironeIshida/HironeIshida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD student at Saitama University.  
+Working on tensor network methods and variable transformations for efficient representations of high-dimensional functions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+
+- Tensor Networks (TT, QTT)
+- Variable Transformation / Discrete Flow
+- Generative Models
+- Many-body physics / Electron-phonon systems
+
+---
+
+## Toolbox
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+</p>
+
+---
+
+## Links
+
+- GitHub: https://github.com/あなたのユーザー名
+- Zenn: https://zenn.dev/あなたのID
