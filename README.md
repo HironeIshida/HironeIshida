@@ -27,5 +27,6 @@ Working on tensor network methods and variable transformations for efficient rep
 
 ## Links
 
-- GitHub: https://github.com/あなたのユーザー名
-- Zenn: https://zenn.dev/あなたのID
+- GitHub: https://github.com/HironeIshida
+- Zenn: https://zenn.dev/@hirone_ishida
+- X: @hironeishida
