@@ -29,4 +29,4 @@ Working on tensor network methods and variable transformations for efficient rep
 
 - GitHub: https://github.com/HironeIshida
 - Zenn: https://zenn.dev/@hirone_ishida
-- X: @hironeishida
+- X: https://X.com/@hironeishida
