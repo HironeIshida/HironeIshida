@@ -10,7 +10,7 @@ My current interest is structure optimization of multi-atomic systems.
 
 ## Research
 
-- Tensor network methods (TT, QTT)
+- Tensor network methods (Tensor Train, Quantics TT, Tensor Cross Interpolation)
 - High-dimensional function compression and computation
 - Variable transformation / Discrete Flow
 - Applications to many-body systems and materials physics
