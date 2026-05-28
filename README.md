@@ -31,5 +31,6 @@ My current interest is structure optimization of multi-atomic systems.
 ## Links
 
 - Homepage: https://hironeishida.github.io/ja/index.html
+- Google Scholar: https://scholar.google.co.jp/citations?user=RwIU0NgAAAAJ&hl=ja 
 - Zenn: https://zenn.dev/hirone_ishida
 - X: https://x.com/hironeishida
